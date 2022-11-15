@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/deploy-gh-repo/static/js/main.67897cff.js",
+    "index.html": "/deploy-gh-repo/index.html",
+    "main.67897cff.js.map": "/deploy-gh-repo/static/js/main.67897cff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.67897cff.js"
+  ]
+}
